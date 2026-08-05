@@ -138,7 +138,7 @@ Run the automated benchmark (API must be running):
 python evaluate.py
 ```
 
-It fires 5 benchmark questions at the API and reports per-query latency, retrieved sources, generated answers, and a final score. Full test-run reports live in [`results/`](results/).
+It fires 4 benchmark questions at the API and reports per-query latency, retrieved sources, generated answers, and a final score. Full test-run reports live in [`results/`](results/).
 
 ## Performance Profile (CPU-only)
 
